@@ -8,7 +8,7 @@ sitemap: false
 permalink: /life/
 ---
 
-Just to share music, literature and movies that I like/dislike (A lot of them are probably old) and some other random stuff in life...
+Just to share music, literature and movies that I like/dislike (A lot of them are probably old) and some other random stuff in life.
 
 
 ## Music
@@ -54,9 +54,9 @@ Just to share music, literature and movies that I like/dislike (A lot of them ar
 * updating ...
 
 ## What I do to waste time/money
-* watching random Youtube videos
-* collecting magnets
-* alternating clothes with a sewing machine
+* watch random Youtube videos
+* [collect magnets (click to see the photo)](/assets/img/magnets.jpeg)
+* alternate clothes with a sewing machine
 * go to classical music concerts
 * travel
 * updating ...

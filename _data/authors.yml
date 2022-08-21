@@ -7,16 +7,17 @@ xli:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:  
+  about: 
+  |+ 
     I'm Xiao, currently a CS PhD student at Princeton University. Before coming to Princeton, I worked in the optical design
-    group and computer vision group (Switzerland) at Magic Leap and contributed to two AR headset products, Magic Leap One and Magic Leap Two.
-    Through my multidisciplinary experience, I developed broad interests in optics, 3D vision, and human vision system. Optics is indeedly
-    niche, compared to deep learning etc., but it's fun and I'm really into it. 
-    Therefore, I hope to find neat applications of optical concepts, devices and systems in the world of the computer vision to 
+    group and computer vision group (Switzerland) at Magic Leap and contributed to AR headset products Magic Leap One and Magic Leap Two.
+    Through my multidisciplinary experience, I developed broad interests in optics, 3D vision, and human vision system. 
+    
+    Optics is indeedly niche, compared to deep learning etc., but it's fun and I'm really into it. Therefore, I hope to find neat applications of optical concepts, devices and systems in the world of the computer vision to 
     improve its start-of-the-art performance and to bridge the gap between imaging hardware and algorithms.
 
     
-    # Open `_data/authors.yml` to edit this text.
+  # Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section
   # picture:
