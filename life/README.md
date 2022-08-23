@@ -12,21 +12,22 @@ Just to share music, literature and movies that I like/dislike (A lot of them ar
 
 
 ## Music
-* [Yo-Yo Ma Plays Ennio Morricone](https://open.spotify.com/album/1ZReq7RYxh0d0IqLONfBHk?si=Z816AWjMTSOA-HZFOm6AxQ)--- the legendary cellist X the legendary composer.
+* [Yo-Yo Ma Plays Ennio Morricone](https://open.spotify.com/album/1ZReq7RYxh0d0IqLONfBHk?si=Z816AWjMTSOA-HZFOm6AxQ)--- the legendary cellist x the legendary composer.
+* [8 humoresque Op.101 B.187 No.7, Dvorak](https://youtu.be/JZnzjzjYkK0?t=01m34s)--- video starts from my fav part :)
 * [Photograph, by Ed Sheeran](https://youtu.be/nSDgHBxUbVQ) --- cute music video.
 * [Imagine, cover by Emi Fujita](https://open.spotify.com/track/6PASXC8pz8wiGQuQShCRFu?si=vw66ttRTT3ukLTm3RnKZqw) --- my fav cover of this song.
-* [きっとまたいつか (surely again sometime), DEPAPEPE, guitar cover by Sungha Jung](https://youtu.be/H92uzAhAPZY)--- it makes me feel like I'm boating on lake Lucern.
+* [きっとまたいつか (surely again sometime), DEPAPEPE, guitar cover by Sungha Jung](https://youtu.be/H92uzAhAPZY)--- I feel like boating on lake Lucern.
 * [Bach x Lute](https://youtu.be/ZLjprbeWMxQ)
-* [Lang Lang - Mozart: 12 Piano Variations on "Ah, vous dirai-je, Maman" (“Twinkle, Twinkle, Little Star") ](https://youtube.com/playlist?list=PL_wxS77dDiyLqx18RrJmLvO9QjChz3Gje)
+* [Lang Lang - Mozart: 12 Piano Variations on "Ah, vous dirai-je, Maman" (“Twinkle, Twinkle, Little Star") ](https://youtube.com/playlist?list=PL_wxS77dDiyLqx18RrJmLvO9QjChz3Gje) --- Well, some people don't like Lang Lang, I do.
 * updating ...
 
 <!-- {:.related-posts.faded} -->
 
 ## Movies
-* Coco --- I was really touched by the expression of dreams, family and "remember me" in this film. 
+* Coco --- I was really touched by the expression of dreams, family and the idea of "remember me" in this film. 
 * Black Swan --- Natalie Portman's best performance IMO.
 * [Confessions](https://en.wikipedia.org/wiki/Confessions_(2010_film))
-* The Curious Case Of Benjamin Button --- Watched this again and again.
+* The Curious Case Of Benjamin Button --- Watched this again and again and always got new perspectives about life.
 * [Paprika](https://en.wikipedia.org/wiki/Paprika_(2006_film)) 
 * [The Butterfly Effect](https://en.wikipedia.org/wiki/The_Butterfly_Effect)
 * [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away)
@@ -44,7 +45,7 @@ Just to share music, literature and movies that I like/dislike (A lot of them ar
 
 ## Books that I struggle to finish
 * [Jerusalem: The Biography, by Simon Sebag Montefiore](https://en.wikipedia.org/wiki/Jerusalem:_The_Biography) --- lengthy... in a loop of read, forgot and re-start... would probably give up
-* books about economics
+* some books about economics
 * updating ...
 
 ## Books that I want to read
@@ -53,12 +54,14 @@ Just to share music, literature and movies that I like/dislike (A lot of them ar
 * Malice, by Keigo Higashino
 * updating ...
 
-## What I do to waste time/money
-* watch random Youtube videos
+## What I do in life
+* watch random YouTube videos (will recommend you my favorite Youtubers)
 * [collect magnets (click to see the photo)](/assets/img/magnets.jpeg)
 * alternate clothes with a sewing machine
-* go to classical music concerts
-* travel
+* go to classical music concerts - I do have musicians and composers I like, but in general I like the feeling of immersing myself in the sound of cello and violin, and I particularly like performances with a small audience, such as those held in libraries, churches or a tiny auditorium where I got to even sit on the stage.
+* travel - I enjoy solo-travelling with my tripod.
+* enjoy nature - I like green and blue - lake, sea, grassland, and mountains.
+* used to watch Chinese stand-up comedy shows
 * updating ...
 <!-- {:.related-posts.faded} -->
 
