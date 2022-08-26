@@ -16,9 +16,9 @@ Just to share music, literature and movies that I like/dislike (A lot of them ar
 * [8 humoresque Op.101 B.187 No.7, Dvorak](https://youtu.be/JZnzjzjYkK0?t=01m34s)--- video starts from my fav part :)
 * [Photograph, by Ed Sheeran](https://youtu.be/nSDgHBxUbVQ) --- cute music video.
 * [Imagine, cover by Emi Fujita](https://open.spotify.com/track/6PASXC8pz8wiGQuQShCRFu?si=vw66ttRTT3ukLTm3RnKZqw) --- my fav cover of this song.
-* [きっとまたいつか (surely again sometime), DEPAPEPE, guitar cover by Sungha Jung](https://youtu.be/H92uzAhAPZY)--- I feel like boating on lake Lucern.
+* [きっとまたいつか (surely again sometime), DEPAPEPE, guitar cover by Sungha Jung](https://youtu.be/H92uzAhAPZY)
 * [Bach x Lute](https://youtu.be/ZLjprbeWMxQ)
-* [Lang Lang - Mozart: 12 Piano Variations on "Ah, vous dirai-je, Maman" (“Twinkle, Twinkle, Little Star") ](https://youtube.com/playlist?list=PL_wxS77dDiyLqx18RrJmLvO9QjChz3Gje) --- Well, some people don't like Lang Lang, I do.
+* [Lang Lang - Mozart: 12 Piano Variations on "Ah, vous dirai-je, Maman" (“Twinkle, Twinkle, Little Star") ](https://youtube.com/playlist?list=PL_wxS77dDiyLqx18RrJmLvO9QjChz3Gje) 
 * updating ...
 
 <!-- {:.related-posts.faded} -->
@@ -58,7 +58,7 @@ Just to share music, literature and movies that I like/dislike (A lot of them ar
 * watch random YouTube videos (will recommend you my favorite Youtubers)
 * [collect magnets (click to see the photo)](/assets/img/magnets.jpeg)
 * alternate clothes with a sewing machine
-* go to classical music concerts - I do have musicians and composers I like, but in general I like the feeling of immersing myself in the sound of cello and violin, and I particularly like performances with a small audience, such as those held in libraries, churches or a tiny auditorium where I got to even sit on the stage.
+* go to classical music concerts - I particularly like performances with a small audience, such as those held in libraries, churches or a tiny auditorium where I got to even sit on the stage.
 * travel - I enjoy solo-travelling with my tripod.
 * enjoy nature - I like green and blue - lake, sea, grassland, and mountains.
 * used to watch Chinese stand-up comedy shows
