@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Life
+# title: Life
 description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 hide_description: true
 sitemap: false
-permalink: /life/
+# permalink: /life/
 ---
 
 Just to share music, literature and movies that I like/dislike (A lot of them are probably old) and some other random stuff in life.
